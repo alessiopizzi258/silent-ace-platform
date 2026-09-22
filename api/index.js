@@ -25,7 +25,6 @@ const footer = `
                 <h4 class="text-white font-bold mb-4 uppercase tracking-widest text-xs">Informazioni Aziendali</h4>
                 <p>Nome commerciale: <strong>Silent Ace</strong></p>
                 <p>Titolare: Alessio Pizzi</p>
-                <p>Indirizzo: Via Palermo, 89030 Condofuri (RC), IT</p>
                 <p>CF/P.IVA: PZZLSS04M25F112L</p>
                 <p>Email Assistenza: <a href="mailto:alessiopizzi258@gmail.com" class="text-blue-400">alessiopizzi258@gmail.com</a></p>
             </div>
