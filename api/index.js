@@ -117,10 +117,15 @@ app.get('/rimborsi', (req, res) => {
         ${nav}
         <main class="max-w-3xl mx-auto px-6 py-12 flex-grow text-gray-300">
             <h1 class="text-3xl font-bold text-white mb-6">Politica di Rimborso e Annullamento</h1>
+            
             <h2 class="text-xl text-white mt-6 mb-2">1. Annullamento degli abbonamenti</h2>
             <p class="mb-4">I clienti possono annullare i propri abbonamenti ricorrenti in qualsiasi momento contattando l'assistenza all'indirizzo email alessiopizzi258@gmail.com. L'annullamento sarà effettivo dal ciclo di fatturazione successivo. Non verranno addebitati ulteriori costi.</p>
+            
             <h2 class="text-xl text-white mt-6 mb-2">2. Prodotti Digitali e Licenze</h2>
             <p class="mb-4">A causa della natura digitale e immateriale dei beni forniti (codice sorgente, servizi di hosting e software custom), e nel rispetto delle normative sulle vendite a distanza per i contenuti digitali scaricabili, <strong>non sono previsti rimborsi</strong> una volta che il servizio è stato erogato, a meno di gravi inadempienze tecniche dimostrabili da parte nostra.</p>
+
+            <h2 class="text-xl text-white mt-6 mb-2">3. Caparra Confirmatoria e Depositi</h2>
+            <p class="mb-4">Qualsiasi anticipo o caparra versata per bloccare l'inizio dei lavori, l'onboarding o l'accesso alle nostre infrastrutture è da considerarsi <strong>strettamente non rimborsabile</strong> nel momento in cui la risorsa o l'erogazione del servizio viene avviata. Questa clausola è irrevocabile e posta a tutela del tempo tecnico allocato.</p>
         </main>
         ${footer}
     `);
