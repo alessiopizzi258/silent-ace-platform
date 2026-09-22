@@ -1,0 +1,12 @@
+{
+  "name": "silent-ace-platform",
+  "version": "1.0.0",
+  "description": "Silent Ace - Infrastruttura Blindata",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
